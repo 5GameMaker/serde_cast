@@ -6,6 +6,8 @@ license-file = "LICENSE"
 license = "MIT"
 repository = "https://github.com/5GameMaker/serde_cast"
 homepage = "https://github.com/5GameMaker/serde_cast"
+documentation = "https://docs.rs/bencher/"
+keywords = ["fun"]
 version = "1.0.0"
 edition = "2021"
 
