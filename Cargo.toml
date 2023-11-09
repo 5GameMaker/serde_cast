@@ -1,5 +1,11 @@
 [package]
 name = "serde_cast"
+description = "Simple A to B cast"
+authors = ["buj"]
+license-file = "LICENSE"
+license = "MIT"
+repository = "https://github.com/5GameMaker/serde_cast"
+homepage = "https://github.com/5GameMaker/serde_cast"
 version = "1.0.0"
 edition = "2021"
 
